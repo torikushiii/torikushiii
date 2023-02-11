@@ -28,14 +28,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=BlueArchiveAPI&show_owner=true" />
 </a>
 
+<a href="https://github.com/torikushiii/GranblueFantasyAPI">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=GranblueFantasyAPI&show_owner=true" />
+</a>
+
 <a href="https://github.com/torikushiii/DiscordTwitterBot">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true" />
 </a>
 
 <a href="https://github.com/torikushiii/TowerOfFantasyData">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=TowerOfFantasyData&show_owner=true" />
-</a>
-
-<a href="https://github.com/torikushiii/pixiv-emote-scraper">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=pixiv-emote-scraper&show_owner=true" />
 </a>
