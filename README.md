@@ -1,4 +1,10 @@
+<p align="center">
+  <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
+</p>
+
 # torikushiii 🔭
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=torikushiii)
 
 ### Hi there 👋
 
@@ -32,8 +38,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=GranblueFantasyAPI&show_owner=true" />
 </a>
 
-<a href="https://github.com/torikushiii/DiscordTwitterBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true" />
+<a href="https://github.com/torikushiii/ChanImageDownloader">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=ChanImageDownloader&show_owner=true" />
 </a>
 
 <a href="https://github.com/torikushiii/TowerOfFantasyData">
