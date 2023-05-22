@@ -4,7 +4,7 @@
 
 # torikushiii 🔭
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=torikushiii)
+![](https://komarev.com/ghpvc/?username=torikushiii&color=ff69b4)
 
 ### Hi there 👋
 
