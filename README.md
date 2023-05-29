@@ -2,6 +2,8 @@
   <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=torikushiii&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Okayeg&count_private=true">
+
 # torikushiii 🔭
 
 ![](https://komarev.com/ghpvc/?username=torikushiii&color=ff69b4)
@@ -10,7 +12,11 @@
 
 > ⚡ A person who is passionate about technologies, open-source, reverse engineering, convenience, etc.
 
-<img align="center" src="https://vercel-mu-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua">
+<img align="right" src="https://vercel-mu-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua">
+
+- en-US / jp-JP
+- Programmer / Developer
+- Likes to collect stuff
 
 ## 🌱 Programming Languages
 
@@ -21,6 +27,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff)
+
+## 💰 Buy me a Coffee
+
+✨ If you like my projects, you can buy me a coffee at:
+ - [ko-fi](https://ko-fi.com/torikushiii)
+ - [PayPal](https://paypal.me/torikushiii)
 
 ## 💻 Working Environment
 
@@ -34,14 +46,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=BlueArchiveAPI&show_owner=true" />
 </a>
 
-<a href="https://github.com/torikushiii/GranblueFantasyAPI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=GranblueFantasyAPI&show_owner=true" />
+<a href="https://github.com/torikushiii/starrail-auto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=starrail-auto&show_owner=true" />
 </a>
 
 <a href="https://github.com/torikushiii/ChanImageDownloader">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=ChanImageDownloader&show_owner=true" />
 </a>
 
-<a href="https://github.com/torikushiii/TowerOfFantasyData">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=TowerOfFantasyData&show_owner=true" />
+<a href="https://github.com/torikushiii/DiscordTwitterBot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true" />
 </a>
