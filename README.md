@@ -2,7 +2,7 @@
   <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=torikushiii&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Okayeg&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=torikushiii&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=トリクシー&count_private=true">
 
 # torikushiii 🔭
 
