@@ -32,7 +32,6 @@
 
 ✨ If you like my projects, you can buy me a coffee at:
  - [ko-fi](https://ko-fi.com/torikushiii)
- - [PayPal](https://paypal.me/torikushiii)
 
 ## 💻 Working Environment
 
