@@ -12,7 +12,7 @@
 
 > ⚡ A person who is passionate about technologies, open-source, reverse engineering, convenience, etc.
 
-<img align="right" src="https://vercel-mu-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua&theme=tokyonight">
+<img align="right" src="https://vercel-mu-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua&theme=tokyonight&hide_border=true">
 
 - en-US / jp-JP
 - Programmer / Developer
@@ -42,17 +42,17 @@
 ## 👯 Some of my projects:
 
 <a href="https://github.com/torikushiii/BlueArchiveAPI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=BlueArchiveAPI&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=BlueArchiveAPI&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/torikushiii/starrail-auto">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=starrail-auto&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=starrail-auto&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/torikushiii/ChanImageDownloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=ChanImageDownloader&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=ChanImageDownloader&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/torikushiii/DiscordTwitterBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
