@@ -49,8 +49,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=starrail-auto&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/torikushiii/ChanImageDownloader">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=ChanImageDownloader&show_owner=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/torikushiii/hoyolab-auto">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=hoyolab-auto&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/torikushiii/DiscordTwitterBot">
