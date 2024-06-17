@@ -1,7 +1,8 @@
+<!--
 <p align="center">
   <img alt="Game Development Department" src="https://user-images.githubusercontent.com/55708473/219477117-bbd9b2d9-123f-4f7b-afbf-48292c94ff0c.png">
 </p>
-
+-->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=torikushiii&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&theme=tokyonight&custom_title=トリクシー&count_private=true">
 
 # torikushiii 🔭
@@ -35,9 +36,11 @@
 
 ## 💻 Working Environment
 
-![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![Windows 11 Pro Workstation 22H2](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows Server 2022 Datacenter 21H2](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter%2021H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu%2022.04.1-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Android 14 Upside Down Cake](https://img.shields.io/badge/Android%2014%20Upside%20Down%20Cake-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![iOS 17.2.1](https://img.shields.io/badge/iOS%2017.2.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 👯 Some of my projects:
 
