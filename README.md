@@ -13,7 +13,7 @@
 
 > ⚡ A person who is passionate about technologies, open-source, reverse engineering, convenience, etc.
 
-<img align="right" src="https://vercel-mu-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua&theme=tokyonight&hide_border=true">
+<img align="right" src="https://vercel-nine-hazel.vercel.app/api/top-langs/?username=torikushiii&layout=compact&hide=lua&theme=tokyonight&hide_border=true">
 
 - en-US / jp-JP
 - Programmer / Developer
