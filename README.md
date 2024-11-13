@@ -29,6 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
 
 ## 💰 Buy me a Coffee
 
@@ -57,6 +58,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=hoyolab-auto&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/torikushiii/DiscordTwitterBot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=DiscordTwitterBot&show_owner=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/torikushiii/hoyoverse-api">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torikushiii&repo=hoyoverse-api&show_owner=true&theme=tokyonight&hide_border=true" />
 </a>
